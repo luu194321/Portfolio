@@ -1,11 +1,3 @@
-/*
-
-Stimulus Template
-
-http://www.templatemo.com/tm-498-stimulus
-
-*/
-
 body {
   background: #ffffff;
   font-family: "Source Sans Pro", sans-serif;
@@ -136,6 +128,10 @@ p {
   width: 100%;
   padding: 0;
   margin: 0;
+}
+.hero-container,
+.section-container {
+  margin-bottom: 30rem !important;
 }
 
 #experience .experience-thumb,
@@ -386,6 +382,9 @@ a:focus {
 
 #about .about-img {
   background: url("../images/about-img.jpg") no-repeat;
+}
+.about-img {
+  max-height: 80% !important;
 }
 
 #about .about-thumb,
