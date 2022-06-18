@@ -175,7 +175,7 @@ footer {
 }
 
 .bg-light-blue {
-  background: #cae9ff;
+  background: #cae9ff !important;
 }
 .bg-blue {
   background: #62b6cb;
